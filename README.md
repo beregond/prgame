@@ -6,6 +6,7 @@ Pull Request Game
 |----------|:------:|
 | Merge your own PR | -20 |
 | Add useless comment/question | -10 |
+| Ignore PR | - 10 |
 | Add positive comment (like '+1' or 'good approach') | 0 |
 | Comment your own PR | 0 |
 | Add comment to PR | 1 |
