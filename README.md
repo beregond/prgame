@@ -18,4 +18,5 @@ Pull Request Game
 | Find and comment wrong line/file ending | 30 |
 | Find and comment empty line, that shouldn't be there | 35 |
 | Find and point out wrong or wrongly used approach or pattern | 40 |
+| Point out missing unit tests | 45 |
 | Find and comment wrong code while this is copypasta of your own code | 50 |
